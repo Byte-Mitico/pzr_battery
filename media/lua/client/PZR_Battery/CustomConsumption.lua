@@ -1,6 +1,5 @@
 local function adjustItem(Name, Property, Value)
     local Item = ScriptManager.instance:getItem(Name)
-    print(Item)
     Item:DoParam(Property .. " = " .. Value)
 end
 
