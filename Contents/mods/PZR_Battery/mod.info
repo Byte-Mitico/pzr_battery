@@ -1,5 +1,6 @@
 name=Byte Mítico - PZR Battery
 id=bytemitico.pzr_battery
 authors=Byte Mítico
-modversion=0.1.3
+modversion=1.0.0
 description=This mod rebalances the batteries stats to make more sense.
+poster=poster.png

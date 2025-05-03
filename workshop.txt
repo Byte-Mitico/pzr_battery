@@ -1,0 +1,6 @@
+version=1
+id=3475356491
+title=Byte Mitico - PZR Battery
+description=This mod rebalances the batteries stats to make more sense.
+tags=Build 41;Balance
+visibility=public
